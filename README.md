@@ -52,8 +52,11 @@
 
 #### Делал без докера, так как были уже на ВМ подняты SQL серверы.
 #### Создал и добавил данные в таблицы.
-![image](https://github.com/nazarch2000/12-07/assets/106932460/5da116bc-4cb5-4223-9e79-a02776180cee)
+![image](https://github.com/nazarch2000/12-07/assets/106932460/3c1a0fc3-091e-4d14-a1f0-eb34fc214395)
+![image](https://github.com/nazarch2000/12-07/assets/106932460/02f8ecca-d798-4213-ad91-3061427b66b4)
+![image](https://github.com/nazarch2000/12-07/assets/106932460/f00b1e37-f6ea-4400-abba-adff6093c516)
 ![image](https://github.com/nazarch2000/12-07/assets/106932460/4af03fdb-7388-4eb5-a26e-3933470b7393)
+
 
 
 *Пришлите конфиг Docker и SQL скрипт с командами для базы данных*.
