@@ -57,6 +57,7 @@
 ![image](https://github.com/nazarch2000/12-07/assets/106932460/f00b1e37-f6ea-4400-abba-adff6093c516)
 ![image](https://github.com/nazarch2000/12-07/assets/106932460/4af03fdb-7388-4eb5-a26e-3933470b7393)
 
+#### Горизонтальный шардинг
+![Безымянный](https://github.com/nazarch2000/12-07/assets/106932460/0e20c99d-d483-4efb-8d68-4d3adfaca9ba)
+![image](https://github.com/nazarch2000/12-07/assets/106932460/6f9811e7-adb5-4a5e-83e9-34304a1225e0)
 
-
-*Пришлите конфиг Docker и SQL скрипт с командами для базы данных*.
